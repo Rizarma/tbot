@@ -150,7 +150,7 @@ def display_menu():
     print("")
     print(f"{chain_symbols['OP Sepolia']}1. OP -> BASE Sepolia{reset_color}")
     print(f"{chain_symbols['Base Sepolia']}2. BASE -> OP Sepolia{reset_color}")
-    print(f"{chain_symbols['Arbitrum Sepolia']}3. BASE -> Arbitrum Sepolia{reset_color}")
+    print(f"{chain_symbols['Base Sepolia']}3. BASE -> Arbitrum Sepolia{reset_color}")
     print(f"{chain_symbols['Arbitrum Sepolia']}4. Arbitrum -> BASE Sepolia{reset_color}")
     print(f"{menu_color}5. Run all transactions repeatedly..recommended.. {reset_color}")
     print("")

@@ -6,8 +6,7 @@ data_bridge = {
     
     "OP - Arbitrum": 'pastehex',
     "OP - BASE": 'pastehex',
-
-    "BASE - OP": 'pastehex',
-    "BASE - Arbitrum": 'pastehex',
     
-    }
+    "BASE - OP": 'pastehex',
+    "BASE - Arbitrum": 'pastehex',    
+}
